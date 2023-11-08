@@ -1,4 +1,4 @@
-# [:] Example Python Pipenv Project22
+# [:] Example Python Pipenv Project
 
 An example pipenv project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
